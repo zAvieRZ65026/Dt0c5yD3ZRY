@@ -23,7 +23,6 @@
 - Contacts list 📇
 - Tasks 📋
 - Video calls server
-    - [Tuber](https://github.com/trailofbits/tubertc) — Peer-to-Peer Video Chat for Corporate LANs
 - Torrent machine
     - [Cloud Torrent](https://github.com/jpillora/cloud-torrent)
 - Notetaking service with sharing
