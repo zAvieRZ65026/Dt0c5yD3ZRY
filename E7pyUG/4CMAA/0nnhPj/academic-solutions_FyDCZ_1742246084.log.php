@@ -18,7 +18,6 @@
 						</div>
 					</div>
 					<div class="control-group form-group">
-						<div class="controls">
 							<label>Passsword:</label>
 							<input type="password" class="form-control" name="apass">
 							<p class="help-block"></p>
